@@ -278,12 +278,11 @@
 
 ---
 
-### 💡 느낀점
+### 💡느낀점
 
 <p align="center">
   <em>
     이번 프로젝트를 통해 <strong>팀원들과의 협업</strong>과 <strong>기획부터 배포까지의 전 과정</strong>을 경험할 수 있었습니다.<br>
-    특히 <strong>Git을 활용한 브랜치 전략</strong>과 <strong>역할 분담을 통한 효율적인 개발</strong>이 인상 깊었습니다.
   </em>
 </p>
 
