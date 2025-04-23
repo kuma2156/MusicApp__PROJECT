@@ -9,7 +9,7 @@
             <td align="center"><b>안드로이드 스튜디오를 활용한 모바일 앱 프로젝트 음악 앱</b></td>
         </tr>
         <tr>
-            <td align="left"><b>제작기간 | 2023-02-25 ~ 2023-06-10 </b></td>
+            <td align="center"><b>제작기간</b> | 2023-02-25 ~ 2023-06-10 </td>
         </tr>
     </table>
 </div>
