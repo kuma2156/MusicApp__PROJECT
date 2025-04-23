@@ -266,6 +266,7 @@
 
 ### 🎬 시연 영상
 
+
 <p align="center">
   <video src="https://github.com/user-attachments/assets/example-demo-video.mp4" controls width="600"></video>
 </p>
@@ -273,6 +274,24 @@
 <p align="center">
   <em><strong>앱 주요 기능들을 실제 사용 흐름에 맞게 보여주는 시연 영상입니다.</strong><br>
   사용자 경험을 보다 직관적으로 확인할 수 있습니다.</em>
+</p>
+
+---
+
+### 💡 느낀점
+
+<p align="center">
+  <em>
+    이번 프로젝트를 통해 <strong>팀원들과의 협업</strong>과 <strong>기획부터 배포까지의 전 과정</strong>을 경험할 수 있었습니다.<br>
+    특히 <strong>Git을 활용한 브랜치 전략</strong>과 <strong>역할 분담을 통한 효율적인 개발</strong>이 인상 깊었습니다.
+  </em>
+</p>
+
+<p align="center">
+  <em>
+    사용자의 입장에서 UI/UX를 고려한 기능 구현이 얼마나 중요한지 느꼈고,<br>
+    실제 구현 과정에서 발생하는 <strong>에러 해결 능력</strong>과 <strong>문제 해결력</strong> 또한 크게 향상되었습니다.
+  </em>
 </p>
 
 ---
