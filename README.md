@@ -27,7 +27,7 @@
       </tr>
       <tr>
         <td align="center"><b><a href="https://github.com/kuma2156">https://github.com/kuma2156</a></b></td>
-        <td align="center"><b><a href="https://github.com/LatteMacchiato1223">https://github.com/팀원아이디</a></b></td>
+        <td align="center"><b><a href="https://github.com/LatteMacchiato1223">https://github.com/LatteMacchiato1223</a></b></td>
       </tr>
     </table>
 </div>
