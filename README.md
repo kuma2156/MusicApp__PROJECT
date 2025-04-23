@@ -214,15 +214,14 @@
 ---
 ### 📋 **메뉴 구조도**
 
-#### 초기화면
+## 초기화면
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79d5f01b-9bc3-4d81-b745-6f87563100d4" width="300"/>
 </p>
 <p align="center">
-  **초기화면**
 </p>
 
-#### 🏠 **홈 화면**
+## 🏠 **홈 화면**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/65ca3e4e-1749-428c-8bd1-6a2db19f0a7b" width="300"/> <br>
   <img src="https://github.com/user-attachments/assets/example-home.gif" width="300"/>
@@ -231,7 +230,7 @@
   <strong>사용자에게 메인 화면을 제공하며, 음악 탐색, 보관함, 위시리스트 등을 쉽게 접근할 수 있는 기능을 제공.</strong>
 </p>
 
-#### 🔍 **검색 기능**
+## 🔍 **검색 기능**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a491418e-5bbd-40a2-8aa5-eb2cd27af22b" width="300"/> <br>
   <img src="https://github.com/user-attachments/assets/example-search.gif" width="300"/>
@@ -240,7 +239,7 @@
   <strong>아티스트, 앨범, 곡명으로 빠르고 정확하게 음악을 검색할 수 있는 기능.</strong>
 </p>
 
-#### 🔍 **아티스트**
+## 🎤 **아티스트**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c9b108cb-4884-446e-b8f8-1722bc59f7f7" width="300"/> <br>
   <img src="https://github.com/user-attachments/assets/example-search.gif" width="300"/>
@@ -249,7 +248,7 @@
   <strong>아티스트, 앨범, 곡명으로 빠르고 정확하게 음악을 검색할 수 있는 기능.</strong>
 </p>
 
-#### 📂 **보관함**
+## 📂 **보관함**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3c2fbddd-821a-4bb8-962b-d630ed9978b0" width="300"/> <br>
   <img src="https://github.com/user-attachments/assets/example-library.gif" width="300"/>
