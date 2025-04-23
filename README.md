@@ -214,9 +214,10 @@
 ---
 
 ### 📋 **메뉴 구조도**
-![메인화면](https://github.com/user-attachments/assets/79d5f01b-9bc3-4d81-b745-6f87563100d4)
+![메인화면](https://github.com/user-attachments/assets/79d5f01b-9bc3-4d81-b745-6f87563100d4)<br>
 초기화면
 ### 🏠 **홈 화면**
+![홈화면](https://github.com/user-attachments/assets/65ca3e4e-1749-428c-8bd1-6a2db19f0a7b)
 ![홈 화면](https://github.com/user-attachments/assets/example-home.gif)
 사용자에게 메인 화면을 제공하며, 음악 탐색, 보관함, 위시리스트 등을 쉽게 접근할 수 있는 기능을 제공.
 
