@@ -1,6 +1,5 @@
-
-<div align="left">![2-removebg-preview](https://github.com/user-attachments/assets/789edc5d-47e5-4f5d-866f-503b741cf6fe)
-
+![2-removebg-preview](https://github.com/user-attachments/assets/789edc5d-47e5-4f5d-866f-503b741cf6fe)
+<div align="left">
     <h1>🛠 Music APP Project</h1>
     <table>
         <tr>
