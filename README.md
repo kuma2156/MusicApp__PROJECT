@@ -33,7 +33,7 @@
 </div>
 
 <h3 align="center">🎧 내 손안의 음악 공간, <span style="color:#3DDC84"><b>Music APP</b></span></h3>
-
+<br><br><br>
 <p align="center">
   <i>사용자 중심의 경험, 직관적인 UI, 그리고 세련된 재생 기능을 담은 모바일 음악 앱</i>
 </p>
