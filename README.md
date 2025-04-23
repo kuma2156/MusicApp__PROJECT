@@ -19,7 +19,7 @@
     <table>
       <tr>
         <td align="center"><img src="https://github.com/user-attachments/assets/61049fd5-5e06-4b17-bb51-d925ea3e68dc" width="250"></td>
-        <td align="center"><img src="이미지_주소_여기에_넣기" width="250"></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/575d2b08-1027-473b-958f-8d1310bdd9aa" width="250"></td>
       </tr>
       <tr>
         <td align="center"><b>김명규</b></td>
