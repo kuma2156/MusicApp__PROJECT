@@ -86,7 +86,7 @@
         <tr>
             <td align="center" width="300">
                 <img src="https://github.com/user-attachments/assets/61049fd5-5e06-4b17-bb51-d925ea3e68dc" width="90"><br>
-                <h3>김명규 (사용자)</h3>
+                <h3>김명규</h3>
                 <p><b>역할</b>: 보관함 기능 및 백엔드 담당</p>
                 <ul>
                     <li>사용자가 좋아하는 노래를 보관할 수 있는 기능을 구현</li>
@@ -96,7 +96,7 @@
             </td>
             <td align="center" width="300">
                 <img src="https://github.com/user-attachments/assets/d679adca-8aee-456b-944e-3ea52fffb1a8" width="90"><br>
-                <h3>엄민서 (조원)</h3>
+                <h3>엄민서</h3>
                 <p><b>역할</b>: 아티스트 정보 및 검색 기능 담당</p>
                 <ul>
                     <li>노래의 아티스트(작곡가, 작사가 등) 정보를 관리하는 기능 구현</li>
