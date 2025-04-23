@@ -31,3 +31,23 @@
       </tr>
     </table>
 </div>
+
+---
+
+### 📱 주요 기능 (Features)
+- 🎶 **로컬 음악 파일 재생**: 사용자의 기기 내 음악 탐색 및 재생
+- 🔀 **재생 컨트롤 기능**: 재생 / 일시정지 / 이전곡 / 다음곡 / 랜덤 / 반복
+- 🌙 **다크모드 UI 적용**: 사용자 경험 중심의 야간 모드
+- 📁 **플레이리스트 관리**: 즐겨찾기, 사용자 정의 리스트
+- 🎨 **사용자 정의 테마**: 테마 색상 커스터마이징
+
+---
+
+### ⚒️ 사용 기술 스택 (Tech Stack)
+- **Language**: Kotlin
+- **IDE**: Android Studio
+- **Architecture**: MVVM
+- **Libraries**: ExoPlayer, Glide, Material Components
+- **Version Control**: Git, GitHub
+
+---
