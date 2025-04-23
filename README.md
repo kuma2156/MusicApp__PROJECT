@@ -50,6 +50,8 @@
     <th>💬 Language</th>
     <th>🧰 IDE</th>
     <th>🏗 Architecture</th>
+    <th>📦 Libraries</th>
+    <th>🔧 Version Control</th>
   </tr>
   <tr>
     <td align="center">
@@ -62,17 +64,6 @@
     <td align="center">
       <img src="https://img.shields.io/badge/MVVM-FF6F61?style=for-the-badge&logo=architect&logoColor=white" />
     </td>
-  </tr>
-</table>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <th>📦 Libraries</th>
-    <th>🔧 Version Control</th>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/ExoPlayer-689F38?style=for-the-badge&logo=google-play&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Glide-FF9800?style=for-the-badge&logo=android&logoColor=white" /><br/>
@@ -84,7 +75,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
