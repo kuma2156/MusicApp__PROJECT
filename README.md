@@ -1,5 +1,6 @@
+>![2-removebg-preview](https://github.com/user-attachments/assets/e63e36b8-4972-484a-a786-7788e835edbb)
+<div align="left"
 
-<div align="left">
     <h1>🛠 Music APP Project</h1>
     <table>
         <tr>
