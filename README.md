@@ -15,16 +15,19 @@
 </div>
 
 <div align="left">
-    <h1>💻 팀</h1>
+    <h1>👥 Team</h1>
     <table>
-        <tr>
-            <td align="center"><img src="https://github.com/user-attachments/assets/61049fd5-5e06-4b17-bb51-d925ea3e68dc" width="250"></td>
-        </tr>
-        <tr>
-            <td align="center"><b>김명규</b></td>
-        </tr>
-        <tr>
-            <td align="center"><b>https://github.com/kuma2156</b></td>
-        </tr>
+      <tr>
+        <td align="center"><img src="https://github.com/user-attachments/assets/61049fd5-5e06-4b17-bb51-d925ea3e68dc" width="250"></td>
+        <td align="center"><img src="이미지_주소_여기에_넣기" width="250"></td>
+      </tr>
+      <tr>
+        <td align="center"><b>김명규</b></td>
+        <td align="center"><b>팀원 이름</b></td>
+      </tr>
+      <tr>
+        <td align="center"><b><a href="https://github.com/kuma2156">https://github.com/kuma2156</a></b></td>
+        <td align="center"><b><a href="https://github.com/팀원아이디">https://github.com/팀원아이디</a></b></td>
+      </tr>
     </table>
 </div>
