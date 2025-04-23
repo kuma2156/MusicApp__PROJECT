@@ -3,7 +3,7 @@
     <h1>🛠 Music APP Project</h1>
     <table>
         <tr>
-            <img src="https://github.com/user-attachments/assets/789edc5d-47e5-4f5d-866f-503b741cf6fe" width="300">
+            <img src="https://github.com/user-attachments/assets/c271ebf9-5e5f-4925-af24-8f5b463e10c0" width="300">
         </tr>
         <tr>
             <td align="center"><b>안드로이드 스튜디오를 활용한 모바일 앱 프로젝트 음악 앱</b></td>
