@@ -266,9 +266,8 @@
 
 ### 🎬 시연 영상
 
-
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/example-demo-video.mp4" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/ad655ee9-eb44-4b13-94a3-f00e320ba866" controls width="600"></video>
 </p>
 
 <p align="center">
