@@ -212,49 +212,52 @@
 
 ---
 ### 📋🖥 화면 구현
-<p align="center">
-<h4> 초기화면 </h4>
-</p>
+
+#### 초기화면
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79d5f01b-9bc3-4d81-b745-6f87563100d4" width="300"/>
 </p>
 <p align="center">
+  <em><strong>앱 실행 시 가장 먼저 보이는 시작 화면입니다.</strong></em>
 </p>
 
-#### 🏠 **홈 화면**
+#### 🏠 홈 화면
 <p align="center">
   <img src="https://github.com/user-attachments/assets/65ca3e4e-1749-428c-8bd1-6a2db19f0a7b" width="300"/> <br>
   <img src="https://github.com/user-attachments/assets/example-home.gif" width="300"/>
 </p>
 <p align="center">
-  <strong>사용자에게 메인 화면을 제공하며, 음악 탐색, 보관함, 위시리스트 등을 쉽게 접근할 수 있는 기능을 제공.</strong>
+  <em>사용자에게 <strong>메인 화면</strong>을 제공하며,<br> 
+  <strong>음악 탐색</strong>, <strong>보관함</strong>, <strong>위시리스트</strong> 등을 <strong>쉽게 접근</strong>할 수 있는 기능을 제공합니다.</em>
 </p>
 
-#### 🔍 **검색 기능**
+#### 🔍 검색 기능
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a491418e-5bbd-40a2-8aa5-eb2cd27af22b" width="300"/> <br>
   <img src="https://github.com/user-attachments/assets/example-search.gif" width="300"/>
 </p>
 <p align="center">
-  <strong>아티스트, 앨범, 곡명으로 빠르고 정확하게 음악을 검색할 수 있는 기능.</strong>
+  <em><strong>아티스트</strong>, <strong>앨범</strong>, <strong>곡명</strong>으로<br>
+  빠르고 정확하게 음악을 검색할 수 있는 기능입니다.</em>
 </p>
 
-#### 🎤 **아티스트**
+#### 🎤 아티스트
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c9b108cb-4884-446e-b8f8-1722bc59f7f7" width="300"/> <br>
   <img src="https://github.com/user-attachments/assets/example-search.gif" width="300"/>
 </p>
 <p align="center">
-  <strong>아티스트, 앨범, 곡명으로 빠르고 정확하게 음악을 검색할 수 있는 기능.</strong>
+  <em>선택한 <strong>아티스트</strong>의 <strong>대표 곡</strong>과 <strong>앨범</strong> 정보를 확인할 수 있습니다.</em>
 </p>
 
-#### 📂 **보관함**
+#### 📂 보관함
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3c2fbddd-821a-4bb8-962b-d630ed9978b0" width="300"/> <br>
   <img src="https://github.com/user-attachments/assets/example-library.gif" width="300"/>
 </p>
 <p align="center">
-  <strong>사용자가 좋아하는 곡을 저장하고 관리할 수 있는 공간으로, 즐겨찾기와 플레이리스트 관리 가능.</strong>
+  <em><strong>즐겨찾기</strong> 및 <strong>플레이리스트</strong>를 관리할 수 있으며,<br>
+  <strong>사용자가 좋아하는 곡</strong>을 모아둘 수 있는 공간입니다.</em>
 </p>
 
 ---
