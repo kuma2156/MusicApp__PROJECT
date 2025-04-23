@@ -218,7 +218,7 @@
 초기화면
 ### 🏠 **홈 화면**
 ![홈화면](https://github.com/user-attachments/assets/65ca3e4e-1749-428c-8bd1-6a2db19f0a7b)
-![홈 화면](https://github.com/user-attachments/assets/example-home.gif)
+![홈 화면](https://github.com/user-attachments/assets/example-home.gif)<br>
 사용자에게 메인 화면을 제공하며, 음악 탐색, 보관함, 위시리스트 등을 쉽게 접근할 수 있는 기능을 제공.
 
 ### 🔍 **검색 기능**
