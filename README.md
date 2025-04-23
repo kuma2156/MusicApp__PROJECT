@@ -212,7 +212,6 @@
 </div>
 
 ---
-
 ### 📋 **메뉴 구조도**
 
 #### 초기화면
@@ -229,7 +228,7 @@
   <img src="https://github.com/user-attachments/assets/example-home.gif" width="300"/>
 </p>
 <p align="center">
-  **사용자에게 메인 화면을 제공하며, 음악 탐색, 보관함, 위시리스트 등을 쉽게 접근할 수 있는 기능을 제공.**
+  <strong>사용자에게 메인 화면을 제공하며, 음악 탐색, 보관함, 위시리스트 등을 쉽게 접근할 수 있는 기능을 제공.</strong>
 </p>
 
 #### 🔍 **검색 기능**
@@ -238,7 +237,7 @@
   <img src="https://github.com/user-attachments/assets/example-search.gif" width="300"/>
 </p>
 <p align="center">
-  **아티스트, 앨범, 곡명으로 빠르고 정확하게 음악을 검색할 수 있는 기능.**
+  <strong>아티스트, 앨범, 곡명으로 빠르고 정확하게 음악을 검색할 수 있는 기능.</strong>
 </p>
 
 #### 🔍 **아티스트**
@@ -247,7 +246,7 @@
   <img src="https://github.com/user-attachments/assets/example-search.gif" width="300"/>
 </p>
 <p align="center">
-  **아티스트, 앨범, 곡명으로 빠르고 정확하게 음악을 검색할 수 있는 기능.**
+  <strong>아티스트, 앨범, 곡명으로 빠르고 정확하게 음악을 검색할 수 있는 기능.</strong>
 </p>
 
 #### 📂 **보관함**
@@ -256,7 +255,7 @@
   <img src="https://github.com/user-attachments/assets/example-library.gif" width="300"/>
 </p>
 <p align="center">
-  **사용자가 좋아하는 곡을 저장하고 관리할 수 있는 공간으로, 즐겨찾기와 플레이리스트 관리 가능.**
+  <strong>사용자가 좋아하는 곡을 저장하고 관리할 수 있는 공간으로, 즐겨찾기와 플레이리스트 관리 가능.</strong>
 </p>
 
 ---
