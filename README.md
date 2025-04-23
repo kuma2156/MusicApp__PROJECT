@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e30b77f9-f240-4cf8-b252-94d652bb36bc" width="320"/>
-  <br><i>홈 화면 UI - 직관적인 디자인과 음악 큐레이션</i>
+  <br><i>로고</i>
 </p>
 
 
