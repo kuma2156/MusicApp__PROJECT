@@ -44,10 +44,34 @@
 ---
 
 ### ⚒️ 사용 기술 스택 (Tech Stack)
-- **Language**: Kotlin
-- **IDE**: Android Studio
-- **Architecture**: MVVM
-- **Libraries**: ExoPlayer, Glide, Material Components
-- **Version Control**: Git, GitHub
+
+<div align="center">
+
+<!-- Language -->
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+
+<!-- IDE -->
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+
+<!-- Architecture -->
+<img src="https://img.shields.io/badge/MVVM-FF6F61?style=for-the-badge&logo=architect&logoColor=white" />
+
+<!-- Libraries -->
+<img src="https://img.shields.io/badge/ExoPlayer-689F38?style=for-the-badge&logo=google-play&logoColor=white" />
+<img src="https://img.shields.io/badge/Glide-FF9800?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Material%20Components-6200EE?style=for-the-badge&logo=material-design&logoColor=white" />
+
+<!-- Version Control -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+
+---
+
+### 📸 프로젝트 결과물 
+
 
 ---
