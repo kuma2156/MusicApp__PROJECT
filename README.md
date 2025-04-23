@@ -1,6 +1,5 @@
 
 <div align="left">
-
     <h1>🛠 Music APP Project</h1>
     <table>
         <tr>
