@@ -170,7 +170,7 @@
 
 ---
 
-### 📸 프로젝트 결과물
+### 📸 기능
 
 <div align="center">
   <table>
@@ -215,44 +215,30 @@
 
 ### 📋 **메뉴 구조도**
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/example-home.gif" width="250"><br/>
-        <b>홈 화면</b><br/>
-        사용자에게 메인 화면을 제공하며, 음악 탐색 및 추천 기능을 포함
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/example-search.gif" width="250"><br/>
-        <b>검색</b><br/>
-        아티스트, 앨범, 곡명으로 빠르고 정확하게 음악을 검색
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/example-library.gif" width="250"><br/>
-        <b>보관함</b><br/>
-        사용자가 좋아하는 곡을 저장하고 관리할 수 있는 공간
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/example-playback.gif" width="250"><br/>
-        <b>재생 화면</b><br/>
-        재생, 일시정지, 건너뛰기 및 반복 등의 재생 제어 UI
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/example-darkmode.gif" width="250"><br/>
-        <b>다크 모드</b><br/>
-        야간에 눈부심을 줄이고, 시각적으로 편안한 테마 제공
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/example-customize.gif" width="250"><br/>
-        <b>테마 커스터마이징</b><br/>
-        사용자가 색상 테마를 개인 취향에 맞게 조정 가능
-      </td>
-    </tr>
-  </table>
-</div>
+### 🏠 **홈 화면**
+![홈 화면](https://github.com/user-attachments/assets/example-home.gif)
+사용자에게 메인 화면을 제공하며, 음악 탐색, 보관함, 위시리스트 등을 쉽게 접근할 수 있는 기능을 제공.
+
+### 🔍 **검색 기능**
+![검색 기능](https://github.com/user-attachments/assets/example-search.gif)
+아티스트, 앨범, 곡명으로 빠르고 정확하게 음악을 검색할 수 있는 기능.
+
+### 📂 **보관함**
+![보관함](https://github.com/user-attachments/assets/example-library.gif)
+사용자가 좋아하는 곡을 저장하고 관리할 수 있는 공간으로, 즐겨찾기와 플레이리스트 관리 가능.
+
+### 🎵 **재생 화면**
+![재생 화면](https://github.com/user-attachments/assets/example-playback.gif)
+곡의 재생, 일시정지, 건너뛰기, 반복 등을 제어하는 UI로, 사용자가 음악을 제어하는 주요 인터페이스.
+
+### 🌙 **다크 모드**
+![다크 모드](https://github.com/user-attachments/assets/example-darkmode.gif)
+밤에도 눈부심 없이 사용할 수 있도록 디자인된 테마, 야간에 적합한 시각적 환경 제공.
+
+### 🎨 **테마 커스터마이징**
+![테마 커스터마이징](https://github.com/user-attachments/assets/example-customize.gif)
+사용자가 색상과 테마를 개인 취향에 맞게 조정하여, 더욱 개인화된 경험을 제공.
+
 
 ---
 
